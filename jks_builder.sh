@@ -1,5 +1,14 @@
 #!/bin/bash
 
+# install java on your mac
+# brew install openjdk
+# then run this 2 lines
+# echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
+# source ~/.zshrc
+
+
+
+
 # Set strict bash options
 set -euo pipefail
 
