@@ -7,7 +7,7 @@
 # source ~/.zshrc
 
 # example call
-# ./jks_generator.sh \
+# ./jks_builder.sh \
 #     --store-pass 123456 \
 #     --key-pass 124443456 \
 #     --replace y \
