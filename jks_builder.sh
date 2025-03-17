@@ -6,6 +6,18 @@
 # echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
 # source ~/.zshrc
 
+# example call
+# ./jks_generator.sh \
+#     --store-pass 123456 \
+#     --key-pass 124443456 \
+#     --replace y \
+#     --cn "My App" \
+#     --ou "My Unit" \
+#     --org "My Company" \
+#     --location "San Francisco" \
+#     --state "CA" \
+#     --country "US"
+
 
 
 
